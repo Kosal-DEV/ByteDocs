@@ -1,4 +1,4 @@
-<h1 align="center">🌿Twig : moteur de template</h1>
+<h1 align="center">🌿Twig : moteur de template🌿</h1>
 
 ### C'est quoi Twig ?
 Twig est moteur de modèles flexible, rapide et sécurisé pour PHP. Il permet de séparer la logique mêtier `PHP` de la logique design `HTML/CSS`.
