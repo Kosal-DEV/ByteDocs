@@ -15,4 +15,4 @@ Twig 3.x nécessite au moins PHP 8.1.0 pour fonctionner.
 ### Syntaxe de base :
 - Variable `{{ variable }}`,
 - Filtres `{{ variable | filtre }}`,
-- Structures de contrôle `{% if %} `
+- Structures de contrôle `{% if %} {% endif %}`
