@@ -1,4 +1,4 @@
-<h1 align="center">🔺Angular🔺</h1>
+<h1 align="center">🔺Angular : commande utile🔺</h1>
 
 ## C'est quoi Angular ?
 Angular est un framework open-source développé par Google, utilisé pour construire des applications web dynamiques et modernes, principalement côté frontend (côté client).
